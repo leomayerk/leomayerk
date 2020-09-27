@@ -14,8 +14,6 @@
 </a>
 </br>
 
----- 
-
 Hi, I'm Leonardo! 
 
 🔭 I'm a mobile React Native Developer, 20 years old. 
